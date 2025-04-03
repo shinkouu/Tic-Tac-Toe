@@ -28,9 +28,15 @@ body {
 .cell:hover {
     background-color: teal;
 }
+.currentPlayer {
+    margin: 10px;
+    font-size: 1.25rem; 
+    font-weight: bold;
+}
 #message {
     margin: 10px;
     font-size: 1.25rem;
+    font-weight: bold;
 }
 button#reset {
     padding: 10px 15px;
