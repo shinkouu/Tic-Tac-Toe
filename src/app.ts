@@ -4,7 +4,7 @@
 
     Name of the author: Kevin Pham
     Date of creation 03.04.2025
-    Datum of last edit: 03.04.2025
+    Date of last edit: 03.04.2025
 */
 
 let isPlayer0: boolean = true;
