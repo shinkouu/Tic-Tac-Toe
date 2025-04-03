@@ -1,10 +1,10 @@
 /*
-    Title: Tic Tac Toe
-    Brief description of the program: Browser Tic Tac Toe
+    Title: Tic-Tac-Toe
+    Brief description of the program: Browser Tic-Tac-Toe
 
     Name of the author: Kevin Pham
     Date of creation 03.04.2025
-    Date of last edit: 03.04.2025
+    Date of last edit: 04.04.2025
 */
 
 // selects all playing fields (buttons) and assigns them to the type HTMLButtonElement
