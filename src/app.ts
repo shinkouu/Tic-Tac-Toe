@@ -10,7 +10,7 @@
 // selects all playing fields (buttons) and assigns them to the type HTMLButtonElement
 const cells = document.querySelectorAll<HTMLButtonElement>(".cell");
 
-// selects the message element and the reset button
+// selects the currentPlayer element, message element and the reset button
 const currentPlayer = document.getElementById("currentPlayer") as HTMLDivElement;
 const message = document.getElementById("message") as HTMLDivElement;
 const resetButton = document.getElementById("reset") as HTMLButtonElement;
